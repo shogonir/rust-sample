@@ -1,3 +1,4 @@
 main
 .rustc_info.json
 target
+.vscode

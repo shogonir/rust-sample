@@ -1,7 +1,7 @@
 [package]
-name = "O3-guessing-game"
+name = "O2-hello-world-cargo-new"
 version = "0.1.0"
-authors = ["shogonir <shogonir@gmail.com>"]
+authors = ["Shogo N <shogonir@gmail.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
